@@ -1,0 +1,5 @@
+
+
+.active-link{
+  @apply text-blue-500;  
+}
